@@ -62,4 +62,4 @@ The final report includes each of the following:
 Based on the Pymaceuticals script the following obervations were determined:
 - Observation 1: Out of the 10 drug regimens, Capomulin outperformed all but one other druf within the study with nearly the lowest final average tumor volume and and standard deviation. Ramicane appears to be the most effective drug regimens, resulting in the smallest average tumor size with the sample also having the smallest standard deviation.
 - Observation 2: Infubinol was the only data set that had an outlier falling below the lower bound, while the remaining three drug regimens produced results within the lower and upper bounds.
-- Observation 4: There is a positive correlation between the mouse weight and the size of the tumor (the heavier in weigh the mouse is, the larger the tumor).
+- Observation 3: There is a positive correlation between the mouse weight and the size of the tumor (the heavier in weigh the mouse is, the larger the tumor).
